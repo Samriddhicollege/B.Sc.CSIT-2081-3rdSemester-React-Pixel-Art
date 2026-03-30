@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "pixel-art"
+  },
+  "targets": {
+    "pixel-art": {
+      "hosting": {
+        "site": "pixel-art"
+      }
+    }
+  }
+}
